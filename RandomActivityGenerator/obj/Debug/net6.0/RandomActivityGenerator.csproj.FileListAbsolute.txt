@@ -1,0 +1,15 @@
+C:\Users\Jake\Desktop\Repos\RandomActivityGenerator\RandomActivityGenerator\bin\Debug\net6.0\RandomActivityGenerator.exe
+C:\Users\Jake\Desktop\Repos\RandomActivityGenerator\RandomActivityGenerator\bin\Debug\net6.0\RandomActivityGenerator.deps.json
+C:\Users\Jake\Desktop\Repos\RandomActivityGenerator\RandomActivityGenerator\bin\Debug\net6.0\RandomActivityGenerator.runtimeconfig.json
+C:\Users\Jake\Desktop\Repos\RandomActivityGenerator\RandomActivityGenerator\bin\Debug\net6.0\RandomActivityGenerator.dll
+C:\Users\Jake\Desktop\Repos\RandomActivityGenerator\RandomActivityGenerator\bin\Debug\net6.0\RandomActivityGenerator.pdb
+C:\Users\Jake\Desktop\Repos\RandomActivityGenerator\RandomActivityGenerator\obj\Debug\net6.0\RandomActivityGenerator.csproj.AssemblyReference.cache
+C:\Users\Jake\Desktop\Repos\RandomActivityGenerator\RandomActivityGenerator\obj\Debug\net6.0\RandomActivityGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\Desktop\Repos\RandomActivityGenerator\RandomActivityGenerator\obj\Debug\net6.0\RandomActivityGenerator.AssemblyInfoInputs.cache
+C:\Users\Jake\Desktop\Repos\RandomActivityGenerator\RandomActivityGenerator\obj\Debug\net6.0\RandomActivityGenerator.AssemblyInfo.cs
+C:\Users\Jake\Desktop\Repos\RandomActivityGenerator\RandomActivityGenerator\obj\Debug\net6.0\RandomActivityGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Jake\Desktop\Repos\RandomActivityGenerator\RandomActivityGenerator\obj\Debug\net6.0\RandomActivityGenerator.dll
+C:\Users\Jake\Desktop\Repos\RandomActivityGenerator\RandomActivityGenerator\obj\Debug\net6.0\refint\RandomActivityGenerator.dll
+C:\Users\Jake\Desktop\Repos\RandomActivityGenerator\RandomActivityGenerator\obj\Debug\net6.0\RandomActivityGenerator.pdb
+C:\Users\Jake\Desktop\Repos\RandomActivityGenerator\RandomActivityGenerator\obj\Debug\net6.0\RandomActivityGenerator.genruntimeconfig.cache
+C:\Users\Jake\Desktop\Repos\RandomActivityGenerator\RandomActivityGenerator\obj\Debug\net6.0\ref\RandomActivityGenerator.dll
